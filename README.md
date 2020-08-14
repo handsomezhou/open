@@ -34,7 +34,7 @@ Windows设备执行端[股票助手](https://github.com/handsomezhou/open/blob/m
 
 3.pip install pyperclip            #粘贴板相关
 
-执行端[股票助手](https://github.com/handsomezhou/open/blob/master/data/StockHelper.rar?raw=true)关联操作端[X助手](https://www.pgyer.com/xhelper)
+### 执行端[股票助手](https://github.com/handsomezhou/open/blob/master/data/StockHelper.rar?raw=true)关联操作端[X助手](https://www.pgyer.com/xhelper)
 
 1.执行端[股票助手](https://github.com/handsomezhou/open/blob/master/data/StockHelper.rar?raw=true)运行,主页面复制其客户端Id
 
@@ -44,7 +44,7 @@ Windows设备执行端[股票助手](https://github.com/handsomezhou/open/blob/m
 ### 测试
 1.打开执行端[股票助手](https://github.com/handsomezhou/open/blob/master/data/StockHelper.rar?raw=true)
 
-2.打开券商软件([同花顺](http://www.10jqka.com.cn/))，主页面->按F12或委托开户+委托交易->进入交易界面，注意最大化券商软件([同花顺](http://www.10jqka.com.cn/))页面,注意将买/卖操作过程中的一些确认
+2.打开券商软件([同花顺](http://www.10jqka.com.cn/))，主页面->按F12或委托开户+委托交易->进入交易界面，注意最大化券商软件([同花顺](http://www.10jqka.com.cn/))页面,注意将买/卖操作过程中的一些确认默认勾选
 
 3.操作端[X助手](https://www.pgyer.com/xhelper)主页面->左上角机器人图标->进行买入/卖出等测试操作,测试过程建议使用模拟账户或者非交易时间操作
 
