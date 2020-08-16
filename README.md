@@ -30,9 +30,13 @@ Windows设备执行端[股票助手](https://github.com/handsomezhou/open/blob/m
 
 1.安装[Python](https://www.python.org/downloads/)
 
-2.pip install wmi pyinstaller  #设备id相关
+2.pip install websockets        #通信相关
 
-3.pip install pyperclip            #粘贴板相关
+3.pip install pyautogui         #自动化相关
+
+4.pip install wmi pyinstaller   #设备id相关
+
+5.pip install pyperclip         #粘贴板相关
 
 ### 执行端[股票助手](https://github.com/handsomezhou/open/blob/master/data/StockHelper.rar?raw=true)关联操作端[X助手](https://www.pgyer.com/xhelper)
 
@@ -52,7 +56,7 @@ Windows设备执行端[股票助手](https://github.com/handsomezhou/open/blob/m
 ### FAQ:
 1.Q:执行端[股票助手](https://github.com/handsomezhou/open/blob/master/data/StockHelper.rar?raw=true)本地测试无响应?
 
-A:建议根据本地券商软件([同花顺](http://www.10jqka.com.cn/))重新将StockHelper\images\10jqka目录下无法识别的图片重新截图,然后覆盖
+A:建议根据本地券商软件([同花顺](http://www.10jqka.com.cn/))重新将StockHelper\images\10jqka目录下无法识别的图片重新截图,然后覆盖  注意全为png图片
 
 
 # end xhelper
