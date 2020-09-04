@@ -28,15 +28,20 @@ Windows设备安装执行端[股票助手](https://github.com/handsomezhou/open/
 
 Windows设备执行端[股票助手](https://github.com/handsomezhou/open/blob/master/data/StockHelper.rar?raw=true)依赖环境
 
-1.安装[Python](https://www.python.org/downloads/)
+1.安装[Python](https://www.python.org/downloads/) #浏览器如果下载速度慢,建议使用第三方下载软件下载,安装Python时注意勾选添加环境变量
 
-2.pip install websockets        #通信相关
+2.python -m pip install --upgrade pip  #更新pip
 
-3.pip install pyautogui         #自动化相关
+3.pip install websockets        #通信相关
 
-4.pip install wmi pyinstaller   #设备id相关
+4.pip install pyautogui         #自动化相关
 
-5.pip install pyperclip         #粘贴板相关
+5.pip install wmi pyinstaller   #设备id相关
+
+6.pip install pyperclip         #粘贴板相关
+
+注意事项:如果pip安装慢,建议在后指定[pip源](https://developer.aliyun.com/article/652884)
+例如:pip install pyautogui -i https://mirrors.aliyun.com/pypi/simple/
 
 ### 执行端[股票助手](https://github.com/handsomezhou/open/blob/master/data/StockHelper.rar?raw=true)关联操作端[X助手](https://www.pgyer.com/xhelper)
 
