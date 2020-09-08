@@ -62,7 +62,17 @@ Windows设备执行端[股票助手](https://github.com/handsomezhou/open/blob/m
 1.Q:执行端[股票助手](https://github.com/handsomezhou/open/blob/master/data/StockHelper.rar?raw=true)本地测试无响应?
 
 A:1.检查是否最大化券商软件([同花顺](http://www.10jqka.com.cn/))
+
   2.建议根据本地券商软件([同花顺](http://www.10jqka.com.cn/))重新将StockHelper\images\10jqka目录下无法识别的图片重新截图,然后覆盖  注意全为png图片
 
+
+2.Q:同花顺如何注册模拟帐号?
+
+A:1.手机下载[同花顺](http://www.10jqka.com.cn/),注册并登录[同花顺](http://www.10jqka.com.cn/),点击查看 交易->模拟,如后续在PC端登录提示用户未开户,请务必在手机上完成上述步骤
+
+
+3.Q:同花顺如何重置密码?
+
+A:[同花顺重置密码](http://upass.10jqka.com.cn/lostpass)
 
 # end xhelper
