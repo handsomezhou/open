@@ -63,7 +63,7 @@ Windows设备执行端[股票助手](https://github.com/handsomezhou/open/blob/m
 
   A:(1).检查是否最大化券商软件([同花顺](http://www.10jqka.com.cn/))
 
-    (2).建议根据本地券商软件([同花顺](http://www.10jqka.com.cn/))重新将StockHelper\images\10jqka目录下无法识别的图片重新截图,然后覆盖  注意全为png图片
+   (2).建议根据本地券商软件([同花顺](http://www.10jqka.com.cn/))重新将StockHelper\images\10jqka目录下无法识别的图片重新截图,然后覆盖  注意全为png图片
 
 
 2.Q:同花顺如何注册模拟帐号?
