@@ -84,10 +84,9 @@ Windows设备执行端[股票助手](https://github.com/handsomezhou/open/blob/m
 
 5.Q:自备Windows主机如何支持远程登录?
 
-  A:[花生壳](https://www.oray.com/) Windows版本安装-登录-我的应用云平台-映射模板(Windows 远程桌面) 创建完毕,进行诊断
+  A:[花生壳](https://www.oray.com/) Windows版本安装-登录-我的应用云平台-映射模板([Windows 远程桌面](http://service.oray.com/category/153_1.html)) 创建完毕,进行诊断
 
-    可能问题
-
+   [花生壳域名诊断不同情况的处理办法](http://service.oray.com/question/5901.html)
     Q1:您的局域网服务器连接失败，请检查局域网IP与端口?
 
     A1:原因1:Windows版本不支持远程桌面 电脑搜索"远程桌面设置"查看确认
@@ -101,11 +100,6 @@ Windows设备执行端[股票助手](https://github.com/handsomezhou/open/blob/m
        原因2：未开启远程连接配置
 
               此电脑-属性-远程设置-远程桌面-允许远程连接到此计算机-仅允许运行使用网络级别身份验证的远程桌面的计算机连接
-
-       解决方法:[花生壳+远程桌面连通家里Win7和公司Win10电脑（详细步骤）](http://service.oray.com/question/5569.html)
-
-                [远程桌面](http://service.oray.com/category/153_1.html)
-
-       [花生壳域名诊断不同情况的处理办法](http://service.oray.com/question/5901.html)
+[花生壳+远程桌面连通家里Win7和公司Win10电脑（详细步骤）](http://service.oray.com/question/5569.html)
 
 # end xhelper
