@@ -66,14 +66,17 @@ Windows设备执行端[股票助手](https://github.com/handsomezhou/open/blob/m
    (2).建议根据本地券商软件([同花顺](http://www.10jqka.com.cn/))重新将StockHelper\images\10jqka目录下无法识别的图片重新截图,然后覆盖  注意全为png图片
 
 
+
 2.Q:同花顺如何注册模拟帐号?
 
   A:(1).手机下载[同花顺](http://www.10jqka.com.cn/),注册并登录[同花顺](http://www.10jqka.com.cn/),点击查看 交易->模拟,如后续在PC端登录提示用户未开户,请务必在手机上完成上述步骤
 
 
+
 3.Q:同花顺如何重置密码?
 
   A:[同花顺重置密码](http://upass.10jqka.com.cn/lostpass)
+
 
 
 4.Q:如何选择Windows设备?
@@ -82,11 +85,13 @@ Windows设备执行端[股票助手](https://github.com/handsomezhou/open/blob/m
 
    (2)自备Windows主机(建议迷你主机)- CPU >=4核 + 内存>=8G + 带宽(>=1M)
 
+
 5.Q:自备Windows主机如何支持远程登录?
 
   A:[花生壳](https://www.oray.com/) Windows版本安装-登录-我的应用云平台-映射模板([Windows 远程桌面](http://service.oray.com/category/153_1.html)) 创建完毕,进行诊断
 
    [花生壳域名诊断不同情况的处理办法](http://service.oray.com/question/5901.html)
+
     Q1:您的局域网服务器连接失败，请检查局域网IP与端口?
 
     A1:原因1:Windows版本不支持远程桌面 电脑搜索"远程桌面设置"查看确认
@@ -101,5 +106,6 @@ Windows设备执行端[股票助手](https://github.com/handsomezhou/open/blob/m
 
               此电脑-属性-远程设置-远程桌面-允许远程连接到此计算机-仅允许运行使用网络级别身份验证的远程桌面的计算机连接
 [花生壳+远程桌面连通家里Win7和公司Win10电脑（详细步骤）](http://service.oray.com/question/5569.html)
+
 
 # end xhelper
