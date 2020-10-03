@@ -65,19 +65,13 @@ Windows设备执行端[股票助手](https://github.com/handsomezhou/open/blob/m
 
    (2).建议根据本地券商软件([同花顺](http://www.10jqka.com.cn/))重新将StockHelper\images\10jqka目录下无法识别的图片重新截图,然后覆盖  注意全为png图片
 
-
-
 2.Q:同花顺如何注册模拟帐号?
 
   A:(1).手机下载[同花顺](http://www.10jqka.com.cn/),注册并登录[同花顺](http://www.10jqka.com.cn/),点击查看 交易->模拟,如后续在PC端登录提示用户未开户,请务必在手机上完成上述步骤
 
-
-
 3.Q:同花顺如何重置密码?
 
   A:[同花顺重置密码](http://upass.10jqka.com.cn/lostpass)
-
-
 
 4.Q:如何选择Windows设备?
 
@@ -85,6 +79,13 @@ Windows设备执行端[股票助手](https://github.com/handsomezhou/open/blob/m
 
    (2)自备Windows主机(建议迷你主机)- CPU >=4核 + 内存>=8G + 带宽(>=1M)
 
+   云Windows服务器与自备Windows主机优缺点对比:
+
+   云Windows服务器 优点:(1)使用简单 (2)环境稳定 (3)随用随买 缺点:(1)按月付费 (2)部分券商禁止客户端在虚拟机(含云主机)上运行,有可能阻断运行
+
+   自备Windows主机 优点:(1)长期使用省费用 (2)客户端交易无被阻断风险 缺点:(1)需提供单独的Windows设备,专用 (2)自行搭建支持远程登录环境 (3)需自行提供电源,网络等稳定环境
+
+   个人建议:长期使用,使用自备Windows主机; 短期测试,使用云Windows服务器
 
 5.Q:自备Windows主机如何支持远程登录?
 
