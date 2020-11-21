@@ -6,7 +6,7 @@
 
 2.执行端[股票助手](https://github.com/handsomezhou/open/blob/master/data/StockHelper.rar?raw=true)(Windows)
 
-3.券商软件(目前支持[同花顺](http://www.10jqka.com.cn/))(Windows)
+3.券商软件(目前支持[同花顺](http://www.10jqka.com.cn/))(Windows)[下载地址(免费下载)](http://download.10jqka.com.cn/)
 
 
 ### 功能:
@@ -40,6 +40,10 @@ Windows设备执行端[股票助手](https://github.com/handsomezhou/open/blob/m
 
 6.pip install pyperclip         #粘贴板相关
 
+7.pip install baidu-aip         #Baidu OCR
+
+8.pip install pandas            #数据分析相关,如有RuntimeError: The current Numpy installation ... Numpy版本问题,将numpy==1.19.4 更换成numpy==1.19.3即可 pip install numpy==1.19.3 
+
 注意事项:如果pip安装慢,建议在后指定[pip源](https://developer.aliyun.com/article/652884)
 例如:pip install pyautogui -i https://mirrors.aliyun.com/pypi/simple/
 
@@ -63,7 +67,7 @@ Windows设备执行端[股票助手](https://github.com/handsomezhou/open/blob/m
 
   A:(1).检查是否最大化券商软件([同花顺](http://www.10jqka.com.cn/))
 
-   (2).建议根据本地券商软件([同花顺](http://www.10jqka.com.cn/))重新将StockHelper\images\10jqka目录下无法识别的图片重新截图,然后覆盖  注意全为png图片
+   (2).建议根据本地券商软件([同花顺](http://www.10jqka.com.cn/))重新将StockHelper\images\10jqka目录下无法识别的图片(sts_refresh_01.png和sts_refresh_11.png等)重新截图,然后覆盖  注意全为png图片
 
 2.Q:同花顺如何注册模拟帐号?
 
