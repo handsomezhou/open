@@ -40,9 +40,14 @@ Windows设备执行端[股票助手](https://github.com/handsomezhou/open/blob/m
 
 6.pip install pyperclip         #粘贴板相关
 
-7.pip install baidu-aip         #Baidu OCR
+7.pip install pandas            #数据分析相关,如有RuntimeError: The current Numpy installation ... Numpy版本问题,将numpy==1.19.4 更换成numpy==1.19.3即可 pip install numpy==1.19.3
 
-8.pip install pandas            #数据分析相关,如有RuntimeError: The current Numpy installation ... Numpy版本问题,将numpy==1.19.4 更换成numpy==1.19.3即可 pip install numpy==1.19.3 
+8.pip install baidu-aip         #Baidu OCR
+
+9.pip install pytesseract       #[Google OCR pypi](https://pypi.org/project/pytesseract/)  [Google OCR github](https://github.com/madmaze/pytesseract)
+
+10.安装pytesseract依赖[tesseract](https://github.com/tesseract-ocr/tesseract))->[Install Tesseract via pre-built binary package](https://tesseract-ocr.github.io/tessdoc/Home.html)->[Downloads](https://tesseract-ocr.github.io/tessdoc/Downloads.html)->[UB Mannheim](https://github.com/UB-Mannheim/tesseract/wiki)->[tesseract-ocr-w64-setup-v5.0.0-alpha.20201127.exe](https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v5.0.0-alpha.20201127.exe)
+
 
 注意事项:如果pip安装慢,建议在后指定[pip源](https://developer.aliyun.com/article/652884)
 例如:pip install pyautogui -i https://mirrors.aliyun.com/pypi/simple/
