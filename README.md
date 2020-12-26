@@ -4,9 +4,9 @@
 ### 软件
 1.操作端[X助手](https://www.pgyer.com/xhelper)(Android)
 
-2.执行端[股票助手](https://github.com/handsomezhou/open/blob/master/data/StockHelper.rar?raw=true)(Windows)
+2.执行端[股票助手](https://github.com/handsomezhou/open/blob/master/data/StockHelper.rar?raw=true)(Windows) 安装目录[C:\Soft\StockHelper]
 
-3.券商软件(目前支持[同花顺](http://www.10jqka.com.cn/))(Windows)[下载地址(免费下载)](http://download.10jqka.com.cn/)
+3.券商软件(目前支持[同花顺](http://www.10jqka.com.cn/))(Windows)[下载地址(免费下载)](http://download.10jqka.com.cn/) 安装目录[C:\Soft\同花顺]
 
 
 ### 功能:
@@ -48,6 +48,7 @@ Windows设备执行端[股票助手](https://github.com/handsomezhou/open/blob/m
 
 10.安装pytesseract依赖[tesseract](https://github.com/tesseract-ocr/tesseract)->[Install Tesseract via pre-built binary package](https://tesseract-ocr.github.io/tessdoc/Home.html)->[Downloads](https://tesseract-ocr.github.io/tessdoc/Downloads.html)->[UB Mannheim](https://github.com/UB-Mannheim/tesseract/wiki)->[tesseract-ocr-w64-setup-v5.0.0-alpha.20201127.exe](https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v5.0.0-alpha.20201127.exe)
 
+11.pip install psutil  #process and system utilities
 
 注意事项:如果pip安装慢,建议在后指定[pip源](https://developer.aliyun.com/article/652884)
 例如:pip install pyautogui -i https://mirrors.aliyun.com/pypi/simple/
